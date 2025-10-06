@@ -20,8 +20,6 @@ A passionate developer working on Next.js, TypeScript, and TailwindCSS projects.
 <p align="left">
 <a href="https://twitter.com/your_twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/your_linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your_instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://youtube.com/@your_youtube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 ---
