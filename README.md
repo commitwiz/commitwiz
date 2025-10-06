@@ -1,4 +1,4 @@
-# Hi 👋, I'm CommitWiz  
+# Hi 👋, there
 A passionate developer working on Next.js, TypeScript, and TailwindCSS projects.  
 
 ---
