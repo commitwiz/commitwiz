@@ -6,13 +6,6 @@ A passionate developer working on Next.js, TypeScript, and TailwindCSS projects.
 ### 📊 Profile Views  
 ![Profile views](https://komarev.com/ghpvc/?username=commitwiz&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
-### 📝 Blog posts  
-- [My First Project with Next.js + Tailwind](#)  
-- [Improving Developer Workflow with Git Automation](#)  
-- [Exploring TypeScript Best Practices](#)  
-- [Deploying on Vercel with Ease](#)  
 
 ---
 
