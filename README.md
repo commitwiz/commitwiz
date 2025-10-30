@@ -9,13 +9,6 @@ A passionate developer working on Next.js, TypeScript, and TailwindCSS projects.
 
 ---
 
-### 🌐 Connect with me  
-<p align="left">
-<a href="https://www.linkedin.com/in/dmytro-datsenko-a17349a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
